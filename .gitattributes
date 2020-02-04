@@ -1,3 +1,2 @@
 *.python linguist-detectable=true
-*.selenium linguist-detectable=true
 *.html linguist-detectable=false
